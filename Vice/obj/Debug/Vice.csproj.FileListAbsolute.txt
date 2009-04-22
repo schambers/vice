@@ -1,7 +1,0 @@
-C:\Projects\Personal\snippets\vice_testing\Vice\bin\Debug\Vice.dll
-C:\Projects\Personal\snippets\vice_testing\Vice\bin\Debug\Vice.pdb
-C:\Projects\Personal\snippets\vice_testing\Vice\bin\Debug\log4net.dll
-C:\Projects\Personal\snippets\vice_testing\Vice\bin\Debug\log4net.xml
-C:\Projects\Personal\snippets\vice_testing\Vice\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\Personal\snippets\vice_testing\Vice\obj\Debug\Vice.dll
-C:\Projects\Personal\snippets\vice_testing\Vice\obj\Debug\Vice.pdb
