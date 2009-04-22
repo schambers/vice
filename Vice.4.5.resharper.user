@@ -1,0 +1,169 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="log4net" priority="5" />
+      <Item value="Appender" priority="0" />
+      <Item value="ConsoleAppender" priority="0" />
+      <Item value="public" priority="13" />
+      <Item value="void" priority="4" />
+      <Item value="string" priority="4" />
+      <Item value="ViceAppender" priority="4" />
+      <Item value="_verifications" priority="7" />
+      <Item value="new" priority="8" />
+      <Item value="Dictionary&lt;string,State&gt;" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="State" priority="1" />
+      <Item value="bool" priority="4" />
+      <Item value="true" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="2" />
+      <Item value="false" priority="1" />
+      <Item value="return" priority="3" />
+      <Item value="result" priority="1" />
+      <Item value="if" priority="4" />
+      <Item value="var" priority="4" />
+      <Item value="state" priority="3" />
+      <Item value="override" priority="1" />
+      <Item value="loggingEvent" priority="0" />
+      <Item value="Test" priority="0" />
+      <Item value="appender" priority="2" />
+      <Item value="LogManager" priority="4" />
+      <Item value="typeof" priority="2" />
+      <Item value="Employee" priority="4" />
+      <Item value="log" priority="9" />
+      <Item value="base" priority="0" />
+      <Item value="layout" priority="1" />
+      <Item value="Layout" priority="0" />
+      <Item value="viceAppender" priority="4" />
+      <Item value="employee" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="message" priority="4" />
+      <Item value="ILog" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="decimal" priority="5" />
+      <Item value="_salary" priority="0" />
+      <Item value="_deductions" priority="4" />
+      <Item value="_salaryPerWeek" priority="1" />
+      <Item value="deduction" priority="0" />
+      <Item value="_log" priority="2" />
+      <Item value="salary" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="TestFixtureSetUp" priority="0" />
+      <Item value="Assert" priority="2" />
+      <Item value="_viceAppender" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="Expectation" priority="0" />
+      <Item value="deductions" priority="0" />
+      <Item value="ConsoleOut" priority="0" />
+      <Item value="sb" priority="2" />
+      <Item value="Console" priority="0" />
+      <Item value="Config" priority="0" />
+      <Item value="BasicConfigurator" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Keys" priority="1" />
+      <Item value="ContainsKey" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vice.Tests.State">
+      <Item value="ShouldBeCalled" priority="1" />
+      <Item value="WasCalled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.Core.LoggingEvent">
+      <Item value="MessageObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Logger" priority="1" />
+      <Item value="Info" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.Repository.Hierarchy.Logger">
+      <Item value="AddAppender" priority="0" />
+      <Item value="Level" priority="0" />
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.Core.Level">
+      <Item value="Info" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vice.Tests.ViceAppender">
+      <Item value="Verify" priority="0" />
+      <Item value="AddVerification" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue" priority="1" />
+      <Item value="Fail" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Vice.Tests.Expectation">
+      <Item value="WasCalled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="5" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.Config.BasicConfigurator">
+      <Item value="Configure" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BD5BAB66-83FB-40DD-9CCD-8C0F87827D81/f:Expectation.cs" caret="0" scrollPosition="" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="112" scrollPosition="0|3" />
+      <File id="d:&amp;/f:Employee.cs" caret="276" scrollPosition="0|0" />
+      <File id="BD5BAB66-83FB-40DD-9CCD-8C0F87827D81/f:ViceAppender.cs" caret="1069" scrollPosition="0|22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="757" scrollPosition="0|0" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="270" scrollPosition="0|0" />
+      <File id="d:&amp;/f:Employee.cs" caret="249" scrollPosition="0|0" />
+      <File id="d:&amp;/f:Employee.cs" caret="403" scrollPosition="0|0" />
+      <File id="d:&amp;/f:Employee.cs" caret="702" scrollPosition="0|0" />
+      <File id="d:&amp;/f:Employee.cs" caret="537" scrollPosition="0|4" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="710" scrollPosition="0|5" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="350" scrollPosition="0|8" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="353" scrollPosition="0|8" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="1084" scrollPosition="0|14" />
+      <File id="d:&amp;/f:Employee.cs" caret="210" scrollPosition="0|4" />
+      <File id="d:&amp;/f:Employee.cs" caret="379" scrollPosition="0|4" />
+      <File id="d:&amp;/f:Employee.cs" caret="585" scrollPosition="0|4" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="1007" scrollPosition="0|20" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="863" scrollPosition="0|6" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="569" scrollPosition="0|6" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="292" scrollPosition="0|6" />
+      <File id="d:&amp;/f:Employee.cs" caret="100" scrollPosition="0|4" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="33" scrollPosition="0|0" />
+      <File id="BD5BAB66-83FB-40DD-9CCD-8C0F87827D81/f:ViceAppender.cs" caret="134" scrollPosition="0|0" />
+      <File id="BD5BAB66-83FB-40DD-9CCD-8C0F87827D81/f:Expectation.cs" caret="14" scrollPosition="0|0" />
+      <File id="d:&amp;/f:EmployeeTests.cs" caret="112" scrollPosition="0|3" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

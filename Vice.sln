@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vice.Tests", "src\Vice.Tests\Vice.Tests.csproj", "{C418315B-4276-436F-8512-AA4F0215B425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vice", "Vice\Vice.csproj", "{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C418315B-4276-436F-8512-AA4F0215B425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C418315B-4276-436F-8512-AA4F0215B425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C418315B-4276-436F-8512-AA4F0215B425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C418315B-4276-436F-8512-AA4F0215B425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
