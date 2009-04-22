@@ -58,7 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Vice\Vice.csproj">
+    <ProjectReference Include="..\Vice\Vice.csproj">
       <Project>{BD5BAB66-83FB-40DD-9CCD-8C0F87827D81}</Project>
       <Name>Vice</Name>
     </ProjectReference>
